@@ -67,7 +67,7 @@ Spotify-PowerBI-Dashboard/
 <img width="950" height="532" alt="SP4" src="https://github.com/user-attachments/assets/5859457b-570f-485b-9ffc-9723e474dba3" />
                     
 ├──                  # Source dataset (if included)
-└── README.md            # Project Documentation
+└──[ click for README.md       ](https://github.com/abhinawale2805/Spotify_dashboard_Analysis/blob/main/README.md)     # Project Documentation
 
 📊 Dashboard Pages
 
