@@ -45,7 +45,6 @@ Data Visualization Techniques
 
 📂 Project Files
 Spotify-PowerBI-Dashboard/
-│
 ├──     # Main Power BI Report File
 
  # Dashboard Preview Image
@@ -53,20 +52,21 @@ Spotify-PowerBI-Dashboard/
 ├── [spotifyimages].<img width="587" height="328" alt="SP" src="https://github.com/user-attachments/assets/4802af30-3bc6-498d-90dc-997af077736c" />
 
 
-<img width="589" height="332" alt="SP1" src="https://github.com/user-attachments/assets/16eea70a-abae-4482-9027-b783be98dcf7" />
+________________<img width="589" height="332" alt="SP1" src="https://github.com/user-attachments/assets/16eea70a-abae-4482-9027-b783be98dcf7" />
 
 
 
 <img width="592" height="330" alt="SP2" src="https://github.com/user-attachments/assets/51e93241-5610-47e1-8f6e-8518e29e55ac" />
 
 
-<img width="590" height="331" alt="SP3" src="https://github.com/user-attachments/assets/5fe95a92-78a1-4732-96c5-4379bc24bcb8" />
+___________________________________<img width="590" height="331" alt="SP3" src="https://github.com/user-attachments/assets/5fe95a92-78a1-4732-96c5-4379bc24bcb8" />
 
 
 
 <img width="950" height="532" alt="SP4" src="https://github.com/user-attachments/assets/5859457b-570f-485b-9ffc-9723e474dba3" />
                     
-├──                  # Source dataset (if included)
+├──[source Code](https://github.com/abhinawale2805/Spotify_dashboard_Analysis/blob/main/SpotifyProject.pbix)               # Source dataset (if included)
+
 └──[ click for README.md       ](https://github.com/abhinawale2805/Spotify_dashboard_Analysis/blob/main/README.md)     # Project Documentation
 
 📊 Dashboard Pages
