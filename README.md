@@ -102,4 +102,5 @@ Spotify is a trademark of Spotify AB.
 
 Abhijit Navale
 📌 Data Science | Power BI Developer | AI/ML Enthusiast
-🔗 GitHub: [](https://github.com/abhinawale2805)
+🔗 GitHub: [click on it
+](https://github.com/abhinawale2805)
