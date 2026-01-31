@@ -1,4 +1,4 @@
-🎵 Spotify Dashboard (Power BI Project)
+<img width="587" height="328" alt="SP" src="https://github.com/user-attachments/assets/2ff396fd-4e45-4edd-b660-9e418201e6e3" />🎵 Spotify Dashboard (Power BI Project)
 
 A visually engaging Spotify Analytics Dashboard built in Microsoft Power BI to explore music data, artists, albums, and song trends.
 This dashboard provides interactive insights with a Spotify-inspired theme and navigation experience.
@@ -46,10 +46,28 @@ Data Visualization Techniques
 📂 Project Files
 Spotify-PowerBI-Dashboard/
 │
-├──  []SpotifyProject.pbix      # Main Power BI Report File
-├── SP.png                     # Dashboard Preview Image
-├── Dataset/                   # Source dataset (if included)
-└── README.md                  # Project Documentation
+├──     # Main Power BI Report File
+
+ # Dashboard Preview Image
+ 
+├── [spotifyimages].<img width="587" height="328" alt="SP" src="https://github.com/user-attachments/assets/4802af30-3bc6-498d-90dc-997af077736c" />
+
+
+<img width="589" height="332" alt="SP1" src="https://github.com/user-attachments/assets/16eea70a-abae-4482-9027-b783be98dcf7" />
+
+
+
+<img width="592" height="330" alt="SP2" src="https://github.com/user-attachments/assets/51e93241-5610-47e1-8f6e-8518e29e55ac" />
+
+
+<img width="590" height="331" alt="SP3" src="https://github.com/user-attachments/assets/5fe95a92-78a1-4732-96c5-4379bc24bcb8" />
+
+
+
+<img width="950" height="532" alt="SP4" src="https://github.com/user-attachments/assets/5859457b-570f-485b-9ffc-9723e474dba3" />
+                    
+├──                  # Source dataset (if included)
+└── README.md            # Project Documentation
 
 📊 Dashboard Pages
 
